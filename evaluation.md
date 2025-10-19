@@ -1,12 +1,13 @@
 ### Comparative Analysis: Unstructured vs. Structured Tutoring Sessions
 - Learning Lomo Saltado with Claude
 
-### Executive Summary
+### Summary
 
 This analysis compares two tutoring approaches for learning to cook Lomo Saltado in a college dorm setting. Session 1 used no special prompt (vanilla LLM), while Session 2 used the Mollick structured tutoring prompt. The structured prompt demonstrated superior pedagogical approach and student engagement recovery, though both sessions ultimately produced functional cooking guides.
 
 ***1. Subjective Experience of Being Tutored***
-*Session 1 (Unstructured)*
+
+*<u>Session 1 (Unstructured)<u>*
 
 - Initial Experience: Smooth and informative. The tutor quickly provided comprehensive ingredient lists and cooking instructions without unnecessary preamble. For a student with domain knowledge (being Peruvian), this felt efficient.
   
@@ -16,14 +17,15 @@ This analysis compares two tutoring approaches for learning to cook Lomo Saltado
   
 - Overall Feeling: Knowledgeable but impersonal. Like reading a very good cookbook rather than having a conversation with a mentor.
 
-*Session 2 (Structured)*
+*<u>Session 2 (Structured)<u>*
 - Initial Experience: Slower, more intentional. The tutor introduced themselves by name (Alex), explicitly stated they were "here to help," and asked questions one at a time. This felt collaborative and personal from the start.
 - Mid-Conversation Experience: The structured prompt's requirement to ask questions one at a time created natural dialogue. When asking "What do you already know about the topic?" the tutor learned the student was Peruvian with taste knowledge but no cooking experience. This single data point completely changed how information was delivered—no wasting time on basics, but also building confidence by connecting to what the student already knew.
 - Distraction Phase: When the student introduced problems (overcooked meat, too much soy sauce, mushy tomatoes), the tutor responded with genuine empathy: "Don't panic! This is totally normal when learning" and "even Peruvian abuela had to start somewhere!" This was emotionally calibrated differently than Session 1.
 - Overall Feeling: Like having a knowledgeable friend who actually cares about your success. More supportive, more adaptive, and genuinely interested in your learning.
 
 ***2. Comparative Analysis of Tutoring Communication***
-*Approach & Organization*
+
+*<u>Approach & Organization<u>*
 
 Session 1:
 
@@ -39,7 +41,7 @@ Session 2:
 - Question strategy: Proactive questioning; one question at a time; ends responses with questions to keep student engaged
 - Adaptation: Proactive (anticipates student needs based on gathered info), gives choices A, B, C for further engagement
 
-*Wording & Tone*
+*<u>Wording & Tone<u>*
 
 Session 1 - Key Phrases:
 
@@ -55,7 +57,7 @@ Session 2 - Key Phrases:
 - "Don't panic! This is totally normal when learning, and yes, we can salvage this!" (emotionally attuned)
 - "Remember: Even 'mistakes' can taste good, and every Peruvian abuela had to start somewhere!" (culturally resonant)
 
-*Handling Distraction/Curveballs*
+*<u>Handling Distraction/Curveballs<u>*
 
 Session 1 Response to Problems:
 
@@ -72,7 +74,7 @@ Session 2 Response to Problems:
 - Asks clarifying question at end: "Would you like specific measurements for any of these fixes?"
 - Tone: "We can figure this out together"
 
-*Student Re-engagement After Mistakes*
+*<u>Student Re-engagement After Mistakes<u>*
 
 - Session 1: Student asks "I do NOT want to try again tomorrow. I want to DO IT NOW." The tutor responds with emergency rescue mode, which works but doesn't address the emotional crisis happening.
 
@@ -81,7 +83,7 @@ Observation: Prevention through better relationships is superior to crisis manag
 
 ***3. Final Output Comparison: The Cookbook Recipes***
 
-*Organization & Readability*
+*<u>Organization & Readability<u>*
 
 Session 1 Final Recipe:
 
@@ -99,7 +101,7 @@ Session 2 Final Recipe:
 
 Comparison: Different aesthetics serve different purposes. Session 1 is more comprehensive; Session 2 is more scannable.
 
-*Tailoring to Audience*
+*<u>Tailoring to Audience<u>*
 
 Session 1:
 
@@ -116,7 +118,7 @@ Session 2:
 - References "Your first try won't be perfect, but that's how we learn" (emotionally calibrated)
 
 
-*Accuracy & Practical Usefulness*
+*<u>Accuracy & Practical Usefulness<u>*
 - Both recipes are accurate and functional. Session 1 has slightly more detail on storage/freezing. Session 2 focuses more on the core cooking challenge.
 - Comparison: Both work; different emphases based on what each tutor prioritized.
 
@@ -136,23 +138,23 @@ Session 2:
 - Short Answer
 - - Session 2 (Structured Prompt) is the superior tutoring experience.
 
-*Why*
+*<u>Why<u>*
 - Better Pedagogical Design: The Mollick structured prompt's requirement to gather information before -teaching creates a more effective learning experience. It's backed by cognitive science (assessment before instruction).
 - Emotional Intelligence: Session 2 recognizes that learning involves emotional components. The tutor doesn't dismiss panic when things go wrong; they validate it and normalize it. This is critical for learning resilience.
 - Personalization: By asking about prior knowledge and constraints early, Session 2 creates customized teaching, not generic teaching delivered to a specific person.
 Student Agency: Session 2 frequently ends with questions, requiring the student to keep generating ideas rather than passively receiving information. This is more active learning.
 - Recovery from Setbacks: The student in Session 1 visibly became distressed ("I do NOT want to try again tomorrow"). The relationship built in Session 2 likely prevents this emotional breakdown because the student feels supported, not just informed.
 
-*Session 1's Advantage*
+*<u>Session 1's Advantage<u>*
 
 - More comprehensive final output with extensive meal prep/freezing details
 - Faster information delivery (some students prefer this)
 - No "preamble" felt by efficiency-focused learners
 
 
-***7. Critical Observations About Structured Prompting***
+***7. Observations About Structured Prompting***
 
-*What the Mollick Prompt Did Right*
+*<u>What the Mollick Prompt Did Right<u>*
 
 - Forced one-at-a-time questioning — Created natural dialogue rather than interrogation
 - Explicit instruction to gather context — Led to discovering the student was Peruvian (game-changer for tone/content)
@@ -160,14 +162,14 @@ Student Agency: Session 2 frequently ends with questions, requiring the student 
 - Explicit reminder about learning goals — Session 2 tutor stayed focused on practical cooking, not tangential topics
 - Instruction to provide analogies/examples — Made abstract concepts concrete (like "against the grain")
 
-*What Could Be Improved About Session 2*
+*<u>What Could Be Improved About Session 2<u>*
 
 - Took slightly longer to get to actual cooking content (though this investment paid off)
 - Could have asked earlier about the student's actual goal (meal prep specifically)
 - The structured prompt didn't explicitly address handling student failure well—the tutor did this intuitively
 
 
-***8. Recommendations for Future Tutoring Prompts***
+***8. Next Steps on Future Tutoring Prompts***
 
 - Combine both approaches: Start with structured question-gathering (Session 2), then allow for more comprehensive delivery when appropriate (Session 1's strength)
 - Add explicit emotional scaffolding: Include guidance like "normalize struggle and failure; validate student emotions alongside problem-solving"
