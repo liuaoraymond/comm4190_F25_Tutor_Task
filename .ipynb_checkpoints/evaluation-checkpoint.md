@@ -1,6 +1,6 @@
 # comm4190_F25_Tutor_Task
 
-# Testing Claude 3.5 Sonnet as a Cooking Tutor: Learning to Make Lomo Saltado
+# Testing Claude as a Cooking Tutor: Learning to Make Lomo Saltado
 
 ## Overview
 
@@ -15,9 +15,3 @@ This project explores how structured prompting affects the quality and effective
 * **evaluation.md** - Analysis comparing the three sessions, including subjective experience, observations on tutoring communication, and effectiveness of each approach.
 
 ## Key Findings
-
-1. Structured prompting creates better emotional support and learning resilience. Session 2 prevented the student's panic through relationship-building, while Session 1 only managed the crisis after it happened.
-   
-2. Personalization from early questioning changes everything. Discovering the student was Peruvian let Session 2 tailor tone and content completely differently, building confidence instead of treating them as a generic college student.
-
-3. Active engagement beats comprehensive information. Session 2's approach of asking questions and requiring student thinking produced a better learning experience than Session 1's comprehensive but one-directional information delivery.
